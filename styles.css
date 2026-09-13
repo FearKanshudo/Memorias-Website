@@ -180,6 +180,12 @@ img {
   display: block;
 }
 
+.mediumimage{
+  width: 50%;
+  height: 50%;
+  display: block;
+}
+
 .tag {
   display: inline-block;
   border: 1px solid var(--maincolor);
